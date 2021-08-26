@@ -114,7 +114,7 @@ defaultproperties
      largeIconWidth=47
      largeIconHeight=37
      beltDescription="ROGUE"
-     Mesh=LodMesh'DeusExItems.Glock'
+     Mesh=LodMesh'DeusExItems.GlockPickup'
      CollisionRadius=7.000000
      CollisionHeight=1.000000
      Mass=3.000000
